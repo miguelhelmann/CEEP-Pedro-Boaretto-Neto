@@ -1,2 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@8..144,100..900&family=Zalando+Sans+Expanded:wght@300;400;500;600;700;800;900&display=swap');
+
 @config "../tailwind.config.js";
 @import "tailwindcss";

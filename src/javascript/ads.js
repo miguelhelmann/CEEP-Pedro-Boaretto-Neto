@@ -8,6 +8,7 @@ let Aatuacao = document.getElementById("Aatuacao")
 let conhecimento = document.getElementById("conhecimento")
 let estrutura = document.getElementById("estrutura")
 
+Aatuacao.classList.add("bg-gray-400")
 
 Aatuacao.addEventListener("click", () => {
   Aatuacao.classList.toggle("bg-gray-400")
